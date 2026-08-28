@@ -1,5 +1,5 @@
 {
-    "version": "2.0.1",
-    "message": "修复了一些问题，新增了设置选项",
-    "download_url": "https://github.com/InahoNeko/signal-analysis-update/releases/download/signal-analysis-v2.0.1/-windows-x86_64.zip"
+    "version": "2.0.2",
+    "message": "对应变处理模块进行了完善",
+    "download_url": "https://github.com/InahoNeko/signal-analysis-update/releases/download/signal-analysis-v2.0.2/-windows-x86_64.zip"
 }
